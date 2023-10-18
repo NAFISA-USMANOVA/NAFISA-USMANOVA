@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-##### 💙 I'm a Salesforce Administrator. 
+##### 💙 I'm a Junior Full Stack Developer. 
 ##### 💚 A Newbie in Github
 ##### 🌸 👩‍🎓 A Student of Full-Stack Web Development 🖥️ bootcamp in Digital Academy, Asturias.
 ***
